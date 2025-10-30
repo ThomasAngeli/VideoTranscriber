@@ -1,0 +1,5 @@
+{
+  "name": "VideoTranscribe AI",
+  "description": "An application to automatically transcribe video or audio files from any language and translate the transcribed text into German using the Gemini API.",
+  "requestFramePermissions": []
+}
